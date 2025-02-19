@@ -4,3 +4,7 @@ public class Alan {
             System.out.println("Hello, World!");
       }
 }
+
+
+// What is the result?
+// A. Compilation fails.
